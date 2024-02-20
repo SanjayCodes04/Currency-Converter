@@ -18,4 +18,3 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # Currency-Converter
 Currency Converter app using flutter
->>>>>>> 88d1b422d0069eab93e6c94ca10dfd59197a5093
